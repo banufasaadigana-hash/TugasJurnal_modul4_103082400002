@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TugasJurnal_modul4_103082400002")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9a7340c696732e13ec2e825ed01fd31d9a4bf2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TugasJurnal_modul4_103082400002")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TugasJurnal_modul4_103082400002")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

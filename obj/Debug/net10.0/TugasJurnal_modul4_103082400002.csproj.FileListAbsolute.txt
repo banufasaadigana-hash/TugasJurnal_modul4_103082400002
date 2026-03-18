@@ -1,0 +1,15 @@
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\bin\Debug\net10.0\TugasJurnal_modul4_103082400002.exe
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\bin\Debug\net10.0\TugasJurnal_modul4_103082400002.deps.json
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\bin\Debug\net10.0\TugasJurnal_modul4_103082400002.runtimeconfig.json
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\bin\Debug\net10.0\TugasJurnal_modul4_103082400002.dll
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\bin\Debug\net10.0\TugasJurnal_modul4_103082400002.pdb
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.AssemblyInfoInputs.cache
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.AssemblyInfo.cs
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.csproj.CoreCompileInputs.cache
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.sourcelink.json
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.dll
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\refint\TugasJurnal_modul4_103082400002.dll
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.pdb
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\TugasJurnal_modul4_103082400002.genruntimeconfig.cache
+C:\Users\adwitiya\source\repos\TugasJurnal_modul4_103082400002\TugasJurnal_modul4_103082400002\obj\Debug\net10.0\ref\TugasJurnal_modul4_103082400002.dll

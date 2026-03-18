@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TugasJurnal_modul4_103082400002/1.0.0": {
+        "runtime": {
+          "TugasJurnal_modul4_103082400002.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TugasJurnal_modul4_103082400002/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
