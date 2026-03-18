@@ -27,10 +27,7 @@ namespace TugasJurnal_modul4_103082400002
         // Method untuk simulasi tombol ditekan
         public void TekanTombolS()
         {
-            Console.WriteLine("tombol arah bawah ditekan"); // Output untuk NIM % 3 == 2? 
-                                                            // Untuk NIM % 3 == 2, output ini diminta? 
-                                                            // Soal mengatakan untuk NIM % 3 == 0 yang ada output "tombol arah bawah ditekan"
-                                                            // Tapi kita bisa tetap menampilkan untuk debugging
+            Console.WriteLine("tombol arah bawah ditekan"); 
 
             switch (currentState)
             {
